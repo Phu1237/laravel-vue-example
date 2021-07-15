@@ -1,19 +1,8 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
-## About Laravel Starter Kit
+## About
 
-Laravel Starter Kit is a simple starter kit with necessary packages for every laravel project.
-
-## Installed packages
-
-- Composer:
-  - [laravel/laravel](https://github.com/laravel/laravel) [8.49.0]
-  - [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) [dev] [3.6.2]
-  - [barryvdh/laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper) [dev] [2.10.0]
-  - [phu1237/laravel-tailwind-auth](https://github.com/Phu1237/laravel-tailwind-auth) [dev] [1.0.2]
-  - [phu1237/laravel-settings](https://github.com/Phu1237/laravel-settings) [1.1.0]
-- Npm / Yarn:
-  - [laravel-mix-blade-reload](https://laravel-mix.com/extensions/blade-reload)
+This is example project of Laravel 8 + Vuejs 3
 
 ## How to use
 
